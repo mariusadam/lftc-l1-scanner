@@ -1,0 +1,2 @@
+# /vendor used just for autoloading so it's not ignored for now
+/.idea

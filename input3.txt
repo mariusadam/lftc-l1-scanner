@@ -1,0 +1,22 @@
+
+
+#a comment before
+
+program test_ne;
+
+#ignored comment
+
+
+
+
+
+declare a,b,c as int;
+	aa as int[10];
+
+{
+    b = 1;
+
+    a = (1 && 0);
+    if(a == 1) write("ok"); else {write("nsdlkfj45$#:%:$#%#${:_#$F#4-=f34=fo ok");}
+}
+
